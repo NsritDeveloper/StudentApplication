@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "582703126890",
+    "project_id": "nsrit-e88c8",
+    "storage_bucket": "nsrit-e88c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582703126890:android:9f6761609e0be56fc22d13",
+        "android_client_info": {
+          "package_name": "com.example.nsrit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582703126890-8h137he0i0m8odu7jgr9oh11dvedies3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVucYjpCbYi7tKF4f3FjGBrSGwz8ZNi70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "582703126890-8h137he0i0m8odu7jgr9oh11dvedies3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
